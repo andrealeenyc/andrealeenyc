@@ -1,7 +1,7 @@
-- 👋 Greetings! I’m @andrealeenyc
-- 👀 I’m interested in design, cats, heavy metal, fitness, and travel.
-- 🌱 I’m currently learning Procreate.
-- 💞️ I’m looking to collaborate on anything design related.
+- 😃 Greetings! I’m @andrealeenyc
+- 😺 I’m interested in design, cats, heavy metal, fitness, and travel.
+- 💻 I’m currently learning Procreate.
+- 👍 I’m looking to collaborate on anything design related.
 - 📫 How to reach me: andrea.lee@shopify.com
 
 <!---
